@@ -1,0 +1,7 @@
+dotnet new list
+dotnet new sln
+dotnet new webapi -o src/AuctionService --use-controllers
+dotnet sln add src/AuctionService 
+
+
+
