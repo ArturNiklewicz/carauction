@@ -99,3 +99,4 @@
 /Users/arturniklewicz/dNET/CarAuction/src/AuctionService/obj/Debug/net8.0/AuctionService.pdb
 /Users/arturniklewicz/dNET/CarAuction/src/AuctionService/obj/Debug/net8.0/AuctionService.genruntimeconfig.cache
 /Users/arturniklewicz/dNET/CarAuction/src/AuctionService/obj/Debug/net8.0/ref/AuctionService.dll
+/Users/arturniklewicz/dNET/CarAuction/src/AuctionService/obj/Debug/net8.0/AuctionService.sourcelink.json
